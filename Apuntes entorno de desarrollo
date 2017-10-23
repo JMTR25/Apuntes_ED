@@ -342,7 +342,7 @@ __Características__
   - Relativamente fácil de aprender
   - Buena documentación y base de usuarios 
 - Desventajas:
-  - Menos eficiente que los lenguajes compilados 
+  - Menos eficiente que los lenguajes compilados *La ejecución es mas lenta*
 
 
 ### Tipos (I)
@@ -352,9 +352,9 @@ __Características__
   - __Imperativos__: indicamos los pasos a seguir para obtener un resultado.
 
 
-### Tipos (II)
+### Tipos (II) 
 
-- Tipos de __lenguajes declarativos__:
+- Tipos de __lenguajes declarativos__: *poco uso salvo SQL*
   - Lógicos: Utilizan reglas. Ej: Prolog
   - Funcionales: Utilizan funciones. Ej: Lisp, Haskell
   - Algebraicos: Utilizan sentencias. Ej: SQL
